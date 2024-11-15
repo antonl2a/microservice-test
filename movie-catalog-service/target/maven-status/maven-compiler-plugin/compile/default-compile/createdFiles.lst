@@ -1,0 +1,8 @@
+com\anton\movie_catalog_service\MovieCatalogServiceApplication.class
+com\anton\movie_catalog_service\models\Rating.class
+com\anton\movie_catalog_service\models\CatalogItem.class
+com\anton\movie_catalog_service\models\UserRating.class
+com\anton\movie_catalog_service\services\MovieInfo.class
+com\anton\movie_catalog_service\resources\MovieCatalogResource.class
+com\anton\movie_catalog_service\models\Movie.class
+com\anton\movie_catalog_service\services\UserRatingInfo.class

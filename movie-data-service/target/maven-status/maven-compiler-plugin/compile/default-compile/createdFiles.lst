@@ -1,0 +1,4 @@
+com\anton\movie_data_service\MovieDataServiceApplication.class
+com\anton\movie_data_service\models\UserRating.class
+com\anton\movie_data_service\resources\RatingsDataResource.class
+com\anton\movie_data_service\models\Rating.class

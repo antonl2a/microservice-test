@@ -1,0 +1,4 @@
+com\anton\movie_info_service\models\MovieSummary.class
+com\anton\movie_info_service\models\Movie.class
+com\anton\movie_info_service\resources\MovieResource.class
+com\anton\movie_info_service\MovieInfoServiceApplication.class
